@@ -20,9 +20,7 @@ My route into engineering leadership was not conventional. I supervised intellig
 
 ## How I work
 
-```text
-Understand the problem -> establish the constraints -> build the smallest durable solution -> verify it in the real world
-```
+**Understand the problem** → **establish the constraints** → **build the smallest durable solution** → **verify it in the real world**
 
 I care about clear ownership, honest tradeoffs, accessible interfaces, secure defaults, and evidence before claims.
 
